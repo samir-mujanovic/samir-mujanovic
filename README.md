@@ -10,6 +10,7 @@ Hi, my name is Samir Mujanovic based in Sarajevo(Bosnia and Herzegovina). I desc
 
 ### 📱 Social network
 
+<br>
 <a href="https://www.linkedin.com/in/samir-mujanovic/">
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
 </a>
@@ -31,3 +32,13 @@ Hi, my name is Samir Mujanovic based in Sarajevo(Bosnia and Herzegovina). I desc
 <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
 <img align="left" alt="LINUX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
 <img align="left" alt="UBUNTU" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" >
+<br>
+<br>
+
+#
+
+### GitHub Stats
+
+<br>
+
+<img align="left" alt="Samirs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sameerrM&show_icons=true&hide_border=true" />
