@@ -35,6 +35,4 @@ Hi, my name is Samir Mujanovic based in Sarajevo(Bosnia and Herzegovina). I desc
 
 ### GitHub Stats
 
-<br>
-
 <img align="left" alt="Samirs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sameerrM&show_icons=true&hide_border=true" />
