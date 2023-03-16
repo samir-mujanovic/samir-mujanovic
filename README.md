@@ -8,18 +8,15 @@ Hi, my name is Samir Mujanovic based in Sarajevo(Bosnia and Herzegovina). I desc
 
 ### 📱 Social network
 
-<br>
+
 <a href="https://www.linkedin.com/in/samir-mujanovic/">
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
 </a>
-<br/>
-<br/>
+<br>
 
 #
 
 ### 🧰 Languages and Tools
-
-<br>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
