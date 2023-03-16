@@ -8,16 +8,6 @@ In my spare time, I like to create and contribute to open-source projects. That 
 
 ---
 
-### 📱 Social network
-
-
-<a href="https://www.linkedin.com/in/samir-mujanovic/">
-    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
-</a>
-<br>
-
-#
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -31,6 +21,16 @@ In my spare time, I like to create and contribute to open-source projects. That 
 <img align="left" alt="UBUNTU" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 
 <br/>
+
+#
+
+### 📱 Social network
+
+
+<a href="https://www.linkedin.com/in/samir-mujanovic/">
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
+</a>
+
 <br/>
 
 #
