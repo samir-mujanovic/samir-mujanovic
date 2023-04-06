@@ -34,7 +34,3 @@ In my spare time, I like to create and contribute to open-source projects. That 
 <br/>
 
 #
-
-### 📊 GitHub Stats
-
-<img align="left" alt="Samirs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sameerrM&show_icons=true&hide_border=true" />
