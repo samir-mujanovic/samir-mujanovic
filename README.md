@@ -1,6 +1,6 @@
 # 🏄 Samir Mujanovic
 
-**`Software Developer | DevOps Enthusiast`**
+**`Software Developer`**
 
 Hi, my name is Samir Mujanovic based in Sarajevo(Bosnia and Herzegovina). I describe myself as a developer who loves coding, open-source and cloud platforms. Experienced with all stages of the development cycle for dynamic web and mobile projects. Having an in-depth knowledge including advanced HTML5, CSS3, JavaScript and working knowledge of Photoshop. Well-versed in Scrum and Agile.
 
