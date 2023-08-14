@@ -1,5 +1,6 @@
 ```yaml
 name: Samir Mujanovic
+headline: Software Developer | DevOps enthusiast
 located_in: Sarajevo, Bosnia and Herzegovina
 job: Currently open to hire!
 education: ["Java programming, It Academy Sarajevo", "High School Of Graphics Technologies, Multimedia and Design"]
