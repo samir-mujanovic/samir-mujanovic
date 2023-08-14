@@ -5,7 +5,7 @@ job: Currently open to hire!
 education: ["Java programming, It Academy Sarajevo", "High School Of Graphics Technologies, Multimedia and Design"]
 description: I describe myself as a developer who loves coding, open-source and cloud platforms.
              Experienced with all stages of the development cycle for dynamic web and mobile projects.
-             Having an in-depth knowledge of advanced HTML5, CSS3, JavaScript, Linux, Cloud, CI/CD and working knowledge of Photoshop.
+             Having an in-depth knowledge of advanced HTML5, CSS3, JavaScript, Linux, Cloud, CI/CD.
              Well-versed in Scrum and Agile.
 
 currently_learning: ["AWS Certified Solutions Architect - Associate"]
