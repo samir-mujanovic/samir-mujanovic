@@ -9,7 +9,6 @@ description: I describe myself as a developer who loves coding, open-source and 
              Having an in-depth knowledge of advanced HTML5, CSS3, JavaScript, Linux, Cloud, CI/CD.
              Well-versed in Scrum and Agile.
 
-currently_learning: ["AWS Certified Solutions Architect - Associate"]
 fields_of_interests: ["Web and Mobile Development (React/React Native)", "DevOps", "AWS Cloud"]
 hobbies: ["Traveling", "Cinema"]
 ```
