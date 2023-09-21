@@ -3,6 +3,7 @@ name: Samir Mujanovic
 headline: Software Developer | DevOps enthusiast
 located_in: Sarajevo, Bosnia and Herzegovina
 job: Currently open to hire!
+certificate: ["AWS Certified Solution Architect - Associate"]
 education: ["Java programming, It Academy Sarajevo", "High School Of Graphics Technologies, Multimedia, and Design"]
 description: I describe myself as a developer who loves coding, open-source, and cloud platforms.
              Experienced with all stages of the development cycle for dynamic web and mobile projects.
