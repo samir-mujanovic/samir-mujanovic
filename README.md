@@ -8,7 +8,6 @@ description: I describe myself as a developer who loves coding, open-source, and
              Experienced with all stages of the development cycle for dynamic web and mobile projects.
              Having an in-depth knowledge of advanced HTML5, CSS3, JavaScript, Linux, Cloud, and CI/CD.
              Well-versed in Scrum and Agile.
-
 fields_of_interests: ["Web and Mobile Development (React/React Native)", "DevOps", "AWS Cloud"]
 hobbies: ["Traveling", "Hiking"]
 ```
