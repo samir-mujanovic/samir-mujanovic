@@ -11,3 +11,8 @@ description: I describe myself as a developer who loves coding, open-source, and
 fields_of_interests: ["Web and Mobile Development (React/React Native)", "DevOps", "AWS Cloud"]
 hobbies: ["Traveling", "Hiking"]
 ```
+
+
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="armins GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samir-mujanovic&show_icons=true&hide_border=true" />
