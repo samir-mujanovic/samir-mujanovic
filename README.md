@@ -1,6 +1,6 @@
 ```yaml
 name: Samir Mujanovic
-headline: Software Developer | DevOps enthusiast
+headline: DevOps
 located_in: Sarajevo, Bosnia and Herzegovina
 certificate: ["AWS Certified Solution Architect - Associate"]
 education: ["Java programming, It Academy Sarajevo", "High School Of Graphics Technologies, Multimedia, and Design"]
