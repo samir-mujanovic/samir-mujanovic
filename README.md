@@ -10,7 +10,7 @@ description: Hi! My name is Samir Mujanovic based in Sarajevo(Bosnia and Herzego
              of the development/deployment of various projects and managing Linux servers. In my spare time, I like
              to create and contribute to open-source projects. That helps me to learn a lot of new stuff, grow as a
              developer, and support other open-source projects. I love traveling and discovering new places.
-fields_of_interests: ["DevOps", "AWS Cloud", "software development"]
+fields_of_interests: ["DevOps", "AWS Cloud", "Software Development"]
 hobbies: ["Traveling", "Hiking"]
 ```
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samir-mujanovic&show_icons=true&theme=transparent&hide_border=true" />
