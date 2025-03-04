@@ -3,7 +3,7 @@ name: Samir Mujanovic
 headline: DevOps
 company: allOps Solutions
 located_in: Sarajevo, Bosnia and Herzegovina
-certificate: ["AWS Certified Solution Architect - Associate"]
+certificate: ["AWS Certified Solution Architect - Associate", "AWS Certified SysOps Administrator - Associate"]
 education: ["Java programming, It Academy Sarajevo", "High School Of Graphics Technologies, Multimedia, and Design"]
 description: Hi! My name is Samir Mujanovic based in Sarajevo(Bosnia and Herzegovina). I describe myself as a DevOps
              and Developer who loves coding, open-source projects, and cloud platforms. Experienced with all stages
